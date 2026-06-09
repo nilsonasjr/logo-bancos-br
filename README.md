@@ -15,84 +15,85 @@ Aqui está a lista de bancos cujos logos estão presentes neste repositório:
 1. ABC Brasil
 2. Ailos
 3. Arbi
-4. Asaas IP S.A
-5. Banco BMP
-6. Banco BS2 S.A
-7. Banco BTG Pactual
-8. Banco C6 S.A
-9. Banco da Amazônia S.A
-10. Banco Daycoval
-11. Banco do Brasil S.A
-12. Banco do Estado do Espírito Santo
-13. Banco do Estado do Pará
-14. Banco do Estado do Sergipe
-15. Banco do Nordeste do Brasil S.A
-16. Banco Industrial do Brasil S.A
-17. Banco Inter S.A
-18. Banco Mercantil do Brasil
-19. Banco Original S.A
-20. Banco Paulista
-21. Banco Pine
-22. Banco Rendimento
-23. Banco Safra S.A
-24. Banco Santander Brasil S.A
-25. Banco Sofisa
-26. Banco Topazio
-27. Banco Triângulo - Tribanco
-28. Banco Votorantim
-29. Bank of America
-30. Banrisul
-31. Bees Bank
-32. BK Bank
-33. BMG
-34. BNP Paribas
-35. Bradesco S.A
-36. BRB - Banco de Brasília
-37. Caixa Econômica Federal
-38. Capitual
-39. Contbank
-40. Conta Simples Soluções em Pagamentos
-41. Cora Sociedade Crédito Direto S.A
-42. Credisis
-43. Cresol
-44. Duepay
-45. Efí - Gerencianet
-46. Grafeno
-47. InfinitePay
-48. Ifood Pago
-49. IP4Y
-50. Itaú Unibanco S.A
-51. Iugu IP S.A
-52. Linker
-53. MagaluPay
-54. Mercado Pago
-55. MFUG Brasil
-56. Modobank
-57. Múltiplo Bank
-58. Neon
-59. Nu Pagamentos S.A (Nubank)
-60. Omie.cash
-61. Omni
-62. OrionPay
-63. PagSeguro Internet S.A
-64. Paycash
-65. PicPay
-66. Pinbank
-67. Quality Digital Bank
-68. RecargaPay
-69. Sicoob
-70. Sicredi
-71. Sisprime do Brasil
-72. Squid Soluções Financeiras
-73. Starbank
-74. Stone Pagamentos S.A
-75. Sulcredi
-76. Transfeera
-77. Unicred
-78. Uniprime
-79. XP Investimentos
-80. Zemo Bank
-81. Bancos Escuros (Subpasta com alguns bancos já mencionados)
+4. Almah Conta
+5. Asaas IP S.A
+6. Banco BMP
+7. Banco BS2 S.A
+8. Banco BTG Pactual
+9. Banco C6 S.A
+10. Banco da Amazônia S.A
+11. Banco Daycoval
+12. Banco do Brasil S.A
+13. Banco do Estado do Espírito Santo
+14. Banco do Estado do Pará
+15. Banco do Estado do Sergipe
+16. Banco do Nordeste do Brasil S.A
+17. Banco Industrial do Brasil S.A
+18. Banco Inter S.A
+19. Banco Mercantil do Brasil
+20. Banco Original S.A
+21. Banco Paulista
+22. Banco Pine
+23. Banco Rendimento
+24. Banco Safra S.A
+25. Banco Santander Brasil S.A
+26. Banco Sofisa
+27. Banco Topazio
+28. Banco Triângulo - Tribanco
+29. Banco Votorantim
+30. Bank of America
+31. Banrisul
+32. Bees Bank
+33. BK Bank
+34. BMG
+35. BNP Paribas
+36. Bradesco S.A
+37. BRB - Banco de Brasília
+38. Caixa Econômica Federal
+39. Capitual
+40. Contbank
+41. Conta Simples Soluções em Pagamentos
+42. Cora Sociedade Crédito Direto S.A
+43. Credisis
+44. Cresol
+45. Duepay
+46. Efí - Gerencianet
+47. Grafeno
+48. InfinitePay
+49. Ifood Pago
+50. IP4Y
+51. Itaú Unibanco S.A
+52. Iugu IP S.A
+53. Linker
+54. MagaluPay
+55. Mercado Pago
+56. MFUG Brasil
+57. Modobank
+58. Múltiplo Bank
+59. Neon
+60. Nu Pagamentos S.A (Nubank)
+61. Omie.cash
+62. Omni
+63. OrionPay
+64. PagSeguro Internet S.A
+65. Paycash
+66. PicPay
+67. Pinbank
+68. Quality Digital Bank
+69. RecargaPay
+70. Sicoob
+71. Sicredi
+72. Sisprime do Brasil
+73. Squid Soluções Financeiras
+74. Starbank
+75. Stone Pagamentos S.A
+76. Sulcredi
+77. Transfeera
+78. Unicred
+79. Uniprime
+80. XP Investimentos
+81. Zemo Bank
+82. Bancos Escuros (Subpasta com alguns bancos já mencionados)
 
 ## Contribuição
 
