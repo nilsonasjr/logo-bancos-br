@@ -73,25 +73,26 @@ Aqui está a lista de bancos cujos logos estão presentes neste repositório:
 59. Nu Pagamentos S.A (Nubank)
 60. Omie.cash
 61. Omni
-62. PagSeguro Internet S.A
-63. Paycash
-64. PicPay
-65. Pinbank
-66. Quality Digital Bank
-67. RecargaPay
-68. Sicoob
-69. Sicredi
-70. Sisprime do Brasil
-71. Squid Soluções Financeiras
-72. Starbank
-73. Stone Pagamentos S.A
-74. Sulcredi
-75. Transfeera
-76. Unicred
-77. Uniprime
-78. XP Investimentos
-79. Zemo Bank
-80. Bancos Escuros (Subpasta com alguns bancos já mencionados)
+62. OrionPay
+63. PagSeguro Internet S.A
+64. Paycash
+65. PicPay
+66. Pinbank
+67. Quality Digital Bank
+68. RecargaPay
+69. Sicoob
+70. Sicredi
+71. Sisprime do Brasil
+72. Squid Soluções Financeiras
+73. Starbank
+74. Stone Pagamentos S.A
+75. Sulcredi
+76. Transfeera
+77. Unicred
+78. Uniprime
+79. XP Investimentos
+80. Zemo Bank
+81. Bancos Escuros (Subpasta com alguns bancos já mencionados)
 
 ## Contribuição
 
