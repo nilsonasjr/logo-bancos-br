@@ -15,60 +15,61 @@ Aqui está a lista de bancos cujos logos estão presentes neste repositório:
 1. ABC Brasil
 2. Ailos
 3. Arbi
-4. Almah Conta
-5. Asaas IP S.A
-6. Banco BMP
-7. Banco BS2 S.A
-8. Banco BTG Pactual
-9. Banco C6 S.A
-10. Banco da Amazônia S.A
-11. Banco Daycoval
-12. Banco do Brasil S.A
-13. Banco do Estado do Espírito Santo
-14. Banco do Estado do Pará
-15. Banco do Estado do Sergipe
-16. Banco do Nordeste do Brasil S.A
-17. Banco Industrial do Brasil S.A
-18. Banco Inter S.A
-19. Banco Mercantil do Brasil
-20. Banco Original S.A
-21. Banco Pan
-22. Banco Paulista
-23. Banco Pine
-24. Banco Rendimento
-25. Banco Safra S.A
-26. Banco Santander Brasil S.A
-27. Banco Sofisa
-28. Banco Topazio
-29. Banco Triângulo - Tribanco
-30. Banco Votorantim
-31. Bank of America
-32. Banrisul
-33. Bees Bank
-34. BK Bank
-35. BMG
-36. BNP Paribas
-37. Bradesco S.A
-38. BRB - Banco de Brasília
-39. Caixa Econômica Federal
-40. Capitual
-41. Contbank
-42. Conta Simples Soluções em Pagamentos
-43. Cora Sociedade Crédito Direto S.A
-44. Credisis
-45. Cresol
-46. Dock
-47. Duepay
-48. Efí - Gerencianet
-49. Grafeno
-50. InfinitePay
-51. Ifood Pago
-52. IP4Y
-53. Itaú Unibanco S.A
-54. Iugu IP S.A
-55. Linker
-56. MagaluPay
-57. Mercado Pago
+4. Artta
+5. Almah Conta
+6. Asaas IP S.A
+7. Banco BMP
+8. Banco BS2 S.A
+9. Banco BTG Pactual
+10. Banco C6 S.A
+11. Banco da Amazônia S.A
+12. Banco Daycoval
+13. Banco do Brasil S.A
+14. Banco do Estado do Espírito Santo
+15. Banco do Estado do Pará
+16. Banco do Estado do Sergipe
+17. Banco do Nordeste do Brasil S.A
+18. Banco Industrial do Brasil S.A
+19. Banco Inter S.A
+20. Banco Mercantil do Brasil
+21. Banco Original S.A
+22. Banco Pan
+23. Banco Paulista
+24. Banco Pine
+25. Banco Rendimento
+26. Banco Safra S.A
+27. Banco Santander Brasil S.A
+28. Banco Sofisa
+29. Banco Topazio
+30. Banco Triângulo - Tribanco
+31. Banco Votorantim
+32. Bank of America
+33. Banrisul
+34. Bees Bank
+35. BK Bank
+36. BMG
+37. BNP Paribas
+38. Bradesco S.A
+39. BRB - Banco de Brasília
+40. Caixa Econômica Federal
+41. Capitual
+42. Contbank
+43. Conta Simples Soluções em Pagamentos
+44. Cora Sociedade Crédito Direto S.A
+45. Credisis
+46. Cresol
+47. Dock
+48. Duepay
+49. Efí - Gerencianet
+50. Grafeno
+51. InfinitePay
+52. Ifood Pago
+53. IP4Y
+54. Itaú Unibanco S.A
+55. Iugu IP S.A
+56. Linker
+57. MagaluPay
+58. Mercado Pago
 58. MFUG Brasil
 59. Modobank
 60. Múltiplo Bank
