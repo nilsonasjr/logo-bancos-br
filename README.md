@@ -93,9 +93,10 @@ Aqui está a lista de bancos cujos logos estão presentes neste repositório:
 79. Transfeera
 80. Unicred
 81. Uniprime
-82. XP Investimentos
-83. Zemo Bank
-84. Bancos Escuros (Subpasta com alguns bancos já mencionados)
+82. UzziPay
+83. XP Investimentos
+84. Zemo Bank
+85. Bancos Escuros (Subpasta com alguns bancos já mencionados)
 
 ## Contribuição
 
