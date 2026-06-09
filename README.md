@@ -57,44 +57,45 @@ Aqui está a lista de bancos cujos logos estão presentes neste repositório:
 43. Cora Sociedade Crédito Direto S.A
 44. Credisis
 45. Cresol
-46. Duepay
-47. Efí - Gerencianet
-48. Grafeno
-49. InfinitePay
-50. Ifood Pago
-51. IP4Y
-52. Itaú Unibanco S.A
-53. Iugu IP S.A
-54. Linker
-55. MagaluPay
-56. Mercado Pago
-57. MFUG Brasil
-58. Modobank
-59. Múltiplo Bank
-60. Neon
-61. Nu Pagamentos S.A (Nubank)
-62. Omie.cash
-63. Omni
-64. OrionPay
-65. PagSeguro Internet S.A
-66. Paycash
-67. PicPay
-68. Pinbank
-69. Quality Digital Bank
-70. RecargaPay
-71. Sicoob
-72. Sicredi
-73. Sisprime do Brasil
-74. Squid Soluções Financeiras
-75. Starbank
-76. Stone Pagamentos S.A
-77. Sulcredi
-78. Transfeera
-79. Unicred
-80. Uniprime
-81. XP Investimentos
-82. Zemo Bank
-83. Bancos Escuros (Subpasta com alguns bancos já mencionados)
+46. Dock
+47. Duepay
+48. Efí - Gerencianet
+49. Grafeno
+50. InfinitePay
+51. Ifood Pago
+52. IP4Y
+53. Itaú Unibanco S.A
+54. Iugu IP S.A
+55. Linker
+56. MagaluPay
+57. Mercado Pago
+58. MFUG Brasil
+59. Modobank
+60. Múltiplo Bank
+61. Neon
+62. Nu Pagamentos S.A (Nubank)
+63. Omie.cash
+64. Omni
+65. OrionPay
+66. PagSeguro Internet S.A
+67. Paycash
+68. PicPay
+69. Pinbank
+70. Quality Digital Bank
+71. RecargaPay
+72. Sicoob
+73. Sicredi
+74. Sisprime do Brasil
+75. Squid Soluções Financeiras
+76. Starbank
+77. Stone Pagamentos S.A
+78. Sulcredi
+79. Transfeera
+80. Unicred
+81. Uniprime
+82. XP Investimentos
+83. Zemo Bank
+84. Bancos Escuros (Subpasta com alguns bancos já mencionados)
 
 ## Contribuição
 
